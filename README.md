@@ -1,2 +1,5 @@
 # tr-js-day11
-What are the different ways to define a function in JavaScript?
+Question: How do you handle cross-origin requests in JavaScript?
+Answer: Cross-origin requests can be handled by enabling CORS (Cross-Origin Resource Sharing) on the server-side to allow requests from specific origins. Additionally, JSONP (JSON with Padding) can be used for handling cross-origin requests in some scenarios.
+
+to run use command : node app.js
